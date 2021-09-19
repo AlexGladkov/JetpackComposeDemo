@@ -18,6 +18,10 @@ object Dependencies {
         const val kotlinPlugin = "org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.21"
     }
 
+    object Qonversion {
+        const val library = "io.qonversion.android.sdk:sdk:3.1.1"
+    }
+
     object Navigation {
         const val navigationCompose = "androidx.navigation:navigation-compose:2.4.0-alpha06"
     }

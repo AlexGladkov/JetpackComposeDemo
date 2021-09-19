@@ -71,6 +71,8 @@ dependencies {
     implementation(Dependencies.Lifecycle.activityCompose)
     implementation(Dependencies.Navigation.navigationCompose)
 
+    implementation(Dependencies.Qonversion.library)
+
     testImplementation(Dependencies.Test.jUnit)
     androidTestImplementation(Dependencies.Test.androidJUnit)
     androidTestImplementation(Dependencies.Test.espresso)
